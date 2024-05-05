@@ -1,2 +1,2 @@
-# WeatherPy
+# WeatherPy and VacationPy
 assignment files
